@@ -62,7 +62,6 @@ https://www.drupal.org/project/webprofiler
 https://packagist.org/packages/kint-php/kint
 https://www.drupal.org/forum/support/module-development-and-code-questions/2017-12-24/custom-module-access-denied
 https://api.drupal.org/api/drupal/core!lib!Drupal!Core!Controller!ControllerBase.php/class/ControllerBase/8.2.x
-
 ..........................................................
 php learning
 
@@ -107,8 +106,16 @@ https://laracasts.com/browse/all
 https://laracasts.com/series/laravel-8-from-scratch
 https://programmingwithvishal.com/courses/learn-advance-php
 https://www.javatpoint.com/php-factorial-program
-https://drupalize.me/guide/develop-drupal-sites
-
+https://tutorialsclass.com/learn/php/php-rest-api/
+https://www.w3schools.in/php/examples/print-pyramid-patterns#:~:text=Print%20Simple%20Number%20Pattern%20(Continuous)&text=Example%3A-,PHP%20code%20to%20display%20left%2Daligned%20pyramid%20pattern%20using%20numbers,%2F%3E%22%3B%20%7D%20%3F%3E
+https://www.w3schools.in/php/examples/php-fibonacci-series
+https://www.w3resource.com/php-exercises/cookies-sessions/index.php
+https://www.w3resource.com/php-exercises/searching-and-sorting-algorithm/index.php
+https://www.w3resource.com/php-exercises/basic-algorithm/index.php
+https://www.w3resource.com/php-exercises/php-array-exercises.php
+https://www.w3resource.com/php-exercises/exception-handling/index.php
+https://www.w3resource.com/php-exercises/php-json-exercises.php
+https://chat.openai.com/c/258f8c70-d70d-4e6d-ad7e-2e071dbb6671
 ........................................
 github
 
@@ -216,6 +223,18 @@ https://drupalize.me/course/module-development-essentials
 https://drupalize.me/guide/develop-drupal-sites
 
 .........................................................
+company
+
+https://rishabhsoft.udemy.com/course/git-complete/learn/lecture/1918362#overview
+https://projects.rishabhsoft.com/
+https://asktst.rishabhsoft.com/
+https://smp.rishabhsoft.com:7249/home#/profile
+https://rishabhsoft.hawkhr.com/Dashboard
+https://stack.rishabhsoft.com/pydio/ws-my-files/
+http://172.16.7.25/direct/mandeep.singh
+https://rishabhsoft.udemy.com/organization/home/
+https://meal.rishabhsoft.com:7074/employee
+https://www.paramounttpa.com/
 
 
 
@@ -223,3 +242,12 @@ https://drupalize.me/guide/develop-drupal-sites
 others
 
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related
+
+
+.............................................................
+
+java--python
+
+https://www.programiz.com/java-programming/hello-world
+https://programiz.pro/learn/master-python
+
