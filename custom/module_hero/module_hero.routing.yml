@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 module_hero.heroList:
   path: '/herolist'
   defaults:
@@ -7,3 +8,14 @@ module_hero.heroList:
     _permission: 'access content'
 
 
+=======
+module_hero.heroList:
+  path: '/herolist'
+  defaults:
+    _controller: '\Drupal\module_hero\Controller\HeroController::heroList'
+    _title: 'Our Super Hero LIst'
+  requirements:
+    _permission: 'access content'
+
+
+>>>>>>> 6a8888e47abef535ca4247cd18e83cb4807d5af4

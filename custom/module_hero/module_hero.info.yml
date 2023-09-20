@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 name: "Module HerO"
 description: it is the module decription
 type: module
 core_version_requirement: ^9 || ^10
+=======
+name: "Module HerO"
+description: it is the module decription
+type: module
+core_version_requirement: ^9 || ^10
+>>>>>>> 6a8888e47abef535ca4247cd18e83cb4807d5af4

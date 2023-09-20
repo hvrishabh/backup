@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 name: "Block Hero"
 description: it is the Block decription
 type: module
 core_version_requirement: ^9 || ^10
+=======
+name: "Block Hero"
+description: it is the Block decription
+type: module
+core_version_requirement: ^9 || ^10
+>>>>>>> 6a8888e47abef535ca4247cd18e83cb4807d5af4
