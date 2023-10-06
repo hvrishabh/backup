@@ -251,3 +251,20 @@ java--python
 https://www.programiz.com/java-programming/hello-world
 https://programiz.pro/learn/master-python
 
+................................................................
+AWS
+
+AWS
+
+https://www.youtube.com/watch?v=rKNSc8RrwxA&list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du
+https://www.youtube.com/watch?v=k1RI5locZE4
+https://www.youtube.com/watch?v=fgbdtNNXR0U
+https://www.youtube.com/watch?v=PZxAkzpuxT8
+https://www.youtube.com/results?search_query=approact+to+learn+aws
+https://www.youtube.com/watch?v=vvhC64hQZMk
+https://www.youtube.com/watch?v=yKgWAHqmAwk&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+https://www.youtube.com/results?search_query=system+design+playlist+
+https://www.youtube.com/@GouravSharma/playlists
+
+
+
