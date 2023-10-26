@@ -205,6 +205,20 @@ https://rishabhsoft.udemy.com/course/drupal-8-module-development/learn/lecture/1
 js
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/::before
+https://www.youtube.com/watch?v=Sxxw3qtb3_g
+https://www.youtube.com/watch?v=Xg9ihH15Uto
+https://www.youtube.com/watch?v=gSDncyuGw0s&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=5
+https://www.youtube.com/watch?v=WjzLVU-aFXI
+https://github.com/jonasschmedtmann/complete-javascript-course
+https://www.youtube.com/watch?v=xhURh2RDzzg
+https://www.youtube.com/watch?v=LpSvzaPsnVI
+https://www.youtube.com/watch?v=qI950QWh2Qs
+https://developer.mozilla.org/en-US/docs/Web/Events
+https://bankist.netlify.app/
+https://bankist-dom.netlify.app/
+http://127.0.0.1:5500/complete-javascript-course-master/13-Advanced-DOM-Bankist/starter/
+https://github.com/public-apis/public-apis/blob/master/README.md
+https://restcountries.com/
 
 
 ........................................................
@@ -266,5 +280,17 @@ https://www.youtube.com/watch?v=yKgWAHqmAwk&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPy
 https://www.youtube.com/results?search_query=system+design+playlist+
 https://www.youtube.com/@GouravSharma/playlists
 
+............................................................................
+cPanel and hosting and domain
+
+https://www.youtube.com/watch?v=PI9qDLOnGHE&list=PLZk46idJS6s54hAX8K79_AY8brgBwPtHd
+https://www.youtube.com/watch?v=lQ5cUfZnDos
+https://www.youtube.com/results?search_query=how+to+use+c+panel
+https://www.youtube.com/watch?v=lDqRUOzZRow
+https://www.youtube.com/watch?v=5jQa8tP9lAw
+https://www.youtube.com/watch?v=64ScfoLlRn0
+https://www.youtube.com/watch?v=4LmTjKuvpYs
+https://www.youtube.com/watch?v=IQ1rZGVvh3g
+https://www.namecheap.com/support/knowledgebase/article.aspx/10132/27/where-can-i-log-in-to-my-cpanel-hosting-account/
 
 
