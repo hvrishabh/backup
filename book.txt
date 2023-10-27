@@ -279,6 +279,9 @@ https://www.youtube.com/watch?v=vvhC64hQZMk
 https://www.youtube.com/watch?v=yKgWAHqmAwk&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
 https://www.youtube.com/results?search_query=system+design+playlist+
 https://www.youtube.com/@GouravSharma/playlists
+https://www.youtube.com/watch?v=Z3SYDTMP3ME
+https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#LaunchInstances:
+https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#RDSConnect:instanceId=i-017cd33ecacb6358f
 
 ............................................................................
 cPanel and hosting and domain
