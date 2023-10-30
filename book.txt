@@ -219,6 +219,8 @@ https://bankist-dom.netlify.app/
 http://127.0.0.1:5500/complete-javascript-course-master/13-Advanced-DOM-Bankist/starter/
 https://github.com/public-apis/public-apis/blob/master/README.md
 https://restcountries.com/
+https://geocode.xyz/
+https://geocode.xyz/api
 
 
 ........................................................
@@ -282,6 +284,14 @@ https://www.youtube.com/@GouravSharma/playlists
 https://www.youtube.com/watch?v=Z3SYDTMP3ME
 https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#LaunchInstances:
 https://eu-west-1.console.aws.amazon.com/ec2/home?region=eu-west-1#RDSConnect:instanceId=i-017cd33ecacb6358f
+https://medium.com/@rohan_precise/step-by-step-guide-setting-up-and-connecting-mysql-on-ec2-ubuntu-instance-72c627e6c27f
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/option1-task3-connect-ec2-instance-to-rds-database.html
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Procedural.Importing.NonRDSRepl.html
+https://ap-southeast-2.console.aws.amazon.com/ec2/v2/home?region=ap-southeast-2#LaunchInstances:
+https://aws.amazon.com/getting-started/hands-on/deploy-drupal-with-amazon-rds/4/#:~:text=Find%20your%20RDS%20database%20endpoint,value%20for%20your%20RDS%20endpoint.
+https://stackoverflow.com/questions/11731714/how-do-i-import-a-local-mysql-db-to-rds-db-instance
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
 
 ............................................................................
 cPanel and hosting and domain
